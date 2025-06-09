@@ -11,4 +11,4 @@ def retorna_resto (msg):
 num = retorna_resto("Digite um nº: ")
 CONSTANTE_RESTO = 5
 
-print(f'O resto da divisão do número {num} divido por 5 é: {num % CONSTANTE_RESTO}.')
+print(f'O resto da divisão do número {num} divido por {CONSTANTE_RESTO} é: {num % CONSTANTE_RESTO}.')
